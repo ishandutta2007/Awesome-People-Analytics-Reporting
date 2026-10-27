@@ -67,83 +67,83 @@ The table below outlines leading commercial SaaS solutions for workforce intelli
 
 Below is a curated selection of open-source HRMS platforms with built-in analytics modules, open-source BI frameworks for workforce data lakes, dedicated people analytics libraries, turnover prediction engines, and organizational network analysis repositories.
 
-Entries are **sorted in descending order by GitHub Star count**, with real-time star badges linking directly to each repository's stargazers page.
+Entries are **sorted in descending order by GitHub Stars_Count**, with real-time Stars_Badges linking directly to each repository's stargazers page.
 
 ### 🌟 Ranked Open-Source Repositories
 
-1. **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+1. **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
    *Enterprise-grade, modern open-source business intelligence and data visualization platform (Python/Flask/React).*  
    - **HR Analytics Utility:** Widely deployed as the visualization layer atop HR data lakes (Snowflake, Trino, PostgreSQL); includes customizable SQL-based executive talent dashboards, attrition heatmaps, and role-based access control (RBAC) to enforce strict employee data privacy.
 
-2. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+2. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    *Intuitive, self-service open-source business intelligence and dashboarding tool (Clojure/JavaScript).*  
    - **HR Analytics Utility:** Enables non-technical HR business partners (HRBPs) to query workforce databases using visual query builders without SQL; provides automated email/Slack alerts for headcount spikes and monthly turnover anomalies.
 
-3. **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+3. **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
    *Comprehensive, modern open-source Human Resource Management System (AGPL-3.0, Python/Frappe/JS).*  
    - **HR Analytics Utility:** The most feature-complete open-source HR foundation; includes native reporting modules for employee lifecycle trends, leave utilization, absenteeism, payroll expense distribution, and appraisal metrics; integrates seamlessly with ERPNext.
 
-4. **[Horilla HR](https://github.com/horilla/horilla-hr)** [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)  
+4. **[Horilla HR](https://github.com/horilla/horilla-hr)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)  
    *Free and open-source HR management software with a clean, modern UI (LGPL-2.1, Python/Django).*  
    - **HR Analytics Utility:** Features visual reporting widgets covering recruitment conversion funnels, attendance records, departmental headcount breakdowns, and employee performance tracking; Docker-deployable for private self-hosting.
 
-5. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
+5. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
    *Veteran open-source HRM system established in 2005 (GPL, PHP/Symfony).*  
    - **HR Analytics Utility:** Contains an out-of-the-box reporting and analytics module generating operational summaries on headcount distribution, time-off patterns, employee turnover, and talent acquisition metrics.
 
-6. **[Frappe Insights](https://github.com/frappe/insights)** [![GitHub stars](https://img.shields.io/github/stars/frappe/insights?style=social&color=white)](https://github.com/frappe/insights/stargazers)  
+6. **[Frappe Insights](https://github.com/frappe/insights)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/insights?style=social&color=white)](https://github.com/frappe/insights/stargazers)  
    *100% open-source BI and data exploration platform (Frappe Framework, Python/Vue.js).*  
    - **HR Analytics Utility:** Connects directly to HR databases (PostgreSQL, MySQL, MariaDB) to build custom workforce dashboards; visual drag-and-drop query builder lets HR analysts build turnover and compensation charts without writing SQL.
 
-7. **[MintHCM](https://github.com/minthcm/minthcm)** [![GitHub stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers)  
+7. **[MintHCM](https://github.com/minthcm/minthcm)** [![GitHub_Stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers)  
    *Open-source Human Capital Management platform based on SugarCRM/SuiteCRM heritage (AGPL).*  
    - **HR Analytics Utility:** Delivers workforce monitoring, skills management, and customizable reporting on employee turnover, recruitment cycle times, and operational HR metrics.
 
-8. **[people-analytics-rstats](https://github.com/rstudio-conf-2022/people-analytics-rstats)** [![GitHub stars](https://img.shields.io/github/stars/rstudio-conf-2022/people-analytics-rstats?style=social&color=white)](https://github.com/rstudio-conf-2022/people-analytics-rstats/stargazers)  
+8. **[people-analytics-rstats](https://github.com/rstudio-conf-2022/people-analytics-rstats)** [![GitHub_Stars](https://img.shields.io/github/stars/rstudio-conf-2022/people-analytics-rstats?style=social&color=white)](https://github.com/rstudio-conf-2022/people-analytics-rstats/stargazers)  
    *RStudio Conference curated workshop and toolkit for People Analytics in R (R / Quarto).*  
    - **HR Analytics Utility:** End-to-end analytical notebooks illustrating employee survey sentiment analysis, turnover survival analysis, and organizational network analysis using the tidyverse and Tidymodels.
 
-9. **[peopleanalytics-regression-book](https://github.com/keithmcnulty/peopleanalytics-regression-book)** [![GitHub stars](https://img.shields.io/github/stars/keithmcnulty/peopleanalytics-regression-book?style=social&color=white)](https://github.com/keithmcnulty/peopleanalytics-regression-book/stargazers)  
+9. **[peopleanalytics-regression-book](https://github.com/keithmcnulty/peopleanalytics-regression-book)** [![GitHub_Stars](https://img.shields.io/github/stars/keithmcnulty/peopleanalytics-regression-book?style=social&color=white)](https://github.com/keithmcnulty/peopleanalytics-regression-book/stargazers)  
    *Complete companion codebase and datasets for the 'Handbook of Regression Modeling in People Analytics' by Keith McNulty (R).*  
    - **HR Analytics Utility:** In-depth implementations of binomial, multinomial, proportional odds, and survival regressions applied to employee promotion, attrition, and diversity modeling.
 
-10. **[InsightForge HR Analytics](https://github.com/virajbhutada/InsightForge)** [![GitHub stars](https://img.shields.io/github/stars/virajbhutada/InsightForge?style=social&color=white)](https://github.com/virajbhutada/InsightForge/stargazers)  
+10. **[InsightForge HR Analytics](https://github.com/virajbhutada/InsightForge)** [![GitHub_Stars](https://img.shields.io/github/stars/virajbhutada/InsightForge?style=social&color=white)](https://github.com/virajbhutada/InsightForge/stargazers)  
     *Curated portfolio collection of interactive Power BI dashboards and DAX analytical models.*  
     - **HR Analytics Utility:** Includes production-ready HR analytics dashboards tracking employee attrition drivers, tenure distributions, performance ratings, and executive workforce scorecards.
 
-11. **[ona_book (Org Network Analysis)](https://github.com/keithmcnulty/ona_book)** [![GitHub stars](https://img.shields.io/github/stars/keithmcnulty/ona_book?style=social&color=white)](https://github.com/keithmcnulty/ona_book/stargazers)  
+11. **[ona_book (Org Network Analysis)](https://github.com/keithmcnulty/ona_book)** [![GitHub_Stars](https://img.shields.io/github/stars/keithmcnulty/ona_book?style=social&color=white)](https://github.com/keithmcnulty/ona_book/stargazers)  
     *Code and data repository for the 'Handbook of Graphs and Networks in People Analytics' (R / igraph / ggraph).*  
     - **HR Analytics Utility:** Practical guides to analyzing informal organizational structures, cross-team collaboration silos, centrality metrics, and team integration using network graph algorithms.
 
-12. **[HR-Analytics](https://github.com/sharmaroshan/HR-Analytics)** [![GitHub stars](https://img.shields.io/github/stars/sharmaroshan/HR-Analytics?style=social&color=white)](https://github.com/sharmaroshan/HR-Analytics/stargazers)  
+12. **[HR-Analytics](https://github.com/sharmaroshan/HR-Analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/sharmaroshan/HR-Analytics?style=social&color=white)](https://github.com/sharmaroshan/HR-Analytics/stargazers)  
     *Data analytics and machine learning classification project for corporate promotion criteria (Python/Jupyter).*  
     - **HR Analytics Utility:** Analyzes employee key performance indicators (KPIs), training scores, and demographic factors to uncover promotion equity and predict advancement readiness.
 
-13. **[IBM-HR-Analytics-Employee-Attrition](https://github.com/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance)** [![GitHub stars](https://img.shields.io/github/stars/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance?style=social&color=white)](https://github.com/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance/stargazers)  
+13. **[IBM-HR-Analytics-Employee-Attrition](https://github.com/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance)** [![GitHub_Stars](https://img.shields.io/github/stars/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance?style=social&color=white)](https://github.com/mrc03/IBM-HR-Analytics-Employee-Attrition-Performance/stargazers)  
     *End-to-end exploratory data analysis and ML classification pipeline for IBM HR workforce data (Python/scikit-learn).*  
     - **HR Analytics Utility:** Features Recursive Feature Elimination (RFE), SMOTE class balancing, and cross-model benchmarks (Random Forest, XGBoost) to diagnose flight risk drivers.
 
-14. **[hr_data](https://github.com/teuschb/hr_data)** [![GitHub stars](https://img.shields.io/github/stars/teuschb/hr_data?style=social&color=white)](https://github.com/teuschb/hr_data/stargazers)  
+14. **[hr_data](https://github.com/teuschb/hr_data)** [![GitHub_Stars](https://img.shields.io/github/stars/teuschb/hr_data?style=social&color=white)](https://github.com/teuschb/hr_data/stargazers)  
     *Synthetic HR datasets, benchmarking routines, and exploratory scripts for People Analytics experimentation (R / Python).*  
     - **HR Analytics Utility:** Provides realistic, non-confidential employee records for testing attrition algorithms, span of control models, and organizational network visualizations without exposing real PII.
 
-15. **[HR-Analytics-PowerBI](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI)** [![GitHub stars](https://img.shields.io/github/stars/Pandey-Adarsh/HR-Analytics-PowerBI?style=social&color=white)](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/stargazers)  
+15. **[HR-Analytics-PowerBI](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI)** [![GitHub_Stars](https://img.shields.io/github/stars/Pandey-Adarsh/HR-Analytics-PowerBI?style=social&color=white)](https://github.com/Pandey-Adarsh/HR-Analytics-PowerBI/stargazers)  
     *Comprehensive HR analytics portfolio project analyzing workforce metrics across 80,000+ records (Power BI / Power Query / DAX).*  
     - **HR Analytics Utility:** Demonstrates automated ETL, custom DAX measures for voluntary vs. involuntary turnover, and executive dashboard layout design.
 
-16. **[PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)** [![GitHub stars](https://img.shields.io/github/stars/brunokatekawa/PeopleAnalytics_Turnover?style=social&color=white)](https://github.com/brunokatekawa/PeopleAnalytics_Turnover/stargazers)  
+16. **[PeopleAnalytics_Turnover](https://github.com/brunokatekawa/PeopleAnalytics_Turnover)** [![GitHub_Stars](https://img.shields.io/github/stars/brunokatekawa/PeopleAnalytics_Turnover?style=social&color=white)](https://github.com/brunokatekawa/PeopleAnalytics_Turnover/stargazers)  
     *Interactive web application and machine learning model predicting employee turnover risk (Python / Streamlit).*  
     - **HR Analytics Utility:** Identifies staff at elevated risk of departure by analyzing job satisfaction, role tenure, compensation ratios, and historical departmental attrition.
 
-17. **[Employee-Performance-Analytics](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics)** [![GitHub stars](https://img.shields.io/github/stars/AmirhosseinHonardoust/Employee-Performance-Analytics?style=social&color=white)](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics/stargazers)  
+17. **[Employee-Performance-Analytics](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics)** [![GitHub_Stars](https://img.shields.io/github/stars/AmirhosseinHonardoust/Employee-Performance-Analytics?style=social&color=white)](https://github.com/AmirhosseinHonardoust/Employee-Performance-Analytics/stargazers)  
     *SQL and Python data engineering pipeline for employee productivity and departmental KPI aggregation.*  
     - **HR Analytics Utility:** Provides automated calculation of workload balance, efficiency trends, and performance quartile distributions for HR business partner decision-making.
 
-18. **[hR (Worker Data Engineering)](https://github.com/dalekube/hR)** [![GitHub stars](https://img.shields.io/github/stars/dalekube/hR?style=social&color=white)](https://github.com/dalekube/hR/stargazers)  
+18. **[hR (Worker Data Engineering)](https://github.com/dalekube/hR)** [![GitHub_Stars](https://img.shields.io/github/stars/dalekube/hR?style=social&color=white)](https://github.com/dalekube/hR/stargazers)  
     *R package and data manipulation framework tailored specifically for Human Resources data structures.*  
     - **HR Analytics Utility:** Simplifies complex HR calculations such as hierarchy roll-ups, tenure duration factoring, supervisory span computation, and point-in-time headcount census transformations.
 
-19. **[Farik](https://github.com/SamoTech/Farik)** [![GitHub stars](https://img.shields.io/github/stars/SamoTech/Farik?style=social&color=white)](https://github.com/SamoTech/Farik/stargazers)  
+19. **[Farik](https://github.com/SamoTech/Farik)** [![GitHub_Stars](https://img.shields.io/github/stars/SamoTech/Farik?style=social&color=white)](https://github.com/SamoTech/Farik/stargazers)  
     *Modern, lightweight open-source HR platform for agile teams (MIT, TypeScript/Node).*  
     - **HR Analytics Utility:** Delivers built-in dashboard analytics tracking live team capacity, attendance health, flight risk forecasts, and team burnout indicators.
 
@@ -177,7 +177,7 @@ Contributions from the people analytics, HR data science, and workforce intellig
 1. 🍴 **Fork the Repository** to your personal GitHub account.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-pa-tool`).
 3. 📝 **Add Your Resource** to `README.md` following the tabular or bulleted format (include specific starting pricing, factual capabilities, and official hyperlinks).
-4. 🏷️ **Add GitHub Social Star Badges** for open-source additions linking to the stargazers page.
+4. 🏷️ **Add GitHub Social Stars_Badges** for open-source additions linking to the stargazers page.
 5. 🚀 **Submit a Pull Request (PR)** with a clear explanation of why the tool adds value to people analytics professionals.
 
 ---
@@ -205,3 +205,12 @@ Thank you to all our contributors, star-gazers, and HR tech innovators! 🙌
 - 🛡️ **Privacy & Data Governance:** People analytics involves sensitive employee data. All implementations must adhere strictly to relevant privacy regulations (**GDPR**, **CCPA**, **EEOC compliance**, and **EU Pay Transparency**). Predictive models (such as flight risk or performance clustering) must be audited regularly for unintended bias or disparate impact.
 - 📜 **Licensing:** Verify all licenses prior to commercial deployment. Open-source tools listed here are licensed under AGPL-3.0, LGPL-2.1, GPL, MIT, or Apache-2.0.
 - 🔍 **Neutrality:** Mentions of commercial SaaS platforms do not constitute paid endorsements; listings are curated based on industry relevance, market adoption, and technical capabilities.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-People-Analytics-Reporting&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-People-Analytics-Reporting_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-People-Analytics-Reporting_growth.svg">
+  </picture>
+</a>
